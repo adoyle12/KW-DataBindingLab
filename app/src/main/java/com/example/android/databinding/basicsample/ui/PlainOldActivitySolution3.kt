@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+/**
 package com.example.android.databinding.basicsample.ui
 
 import android.content.Context
@@ -96,3 +96,4 @@ class PlainOldActivitySolution3 : AppCompatActivity() {
         }
     }
 }
+*/
